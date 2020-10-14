@@ -19,12 +19,14 @@ button {
 .button2:hover {
   box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 }
+	
 .division{
 	align: center;
 	background-color: #1976d2;
 	padding-top: 10px;
 	padding-bottom: 10px;
 }
+	
 .division_2{
 	align: center;
 	padding-top: 50px;
@@ -60,4 +62,5 @@ button {
 		</table>
 	</div>
 </body>
+	
 </html>
