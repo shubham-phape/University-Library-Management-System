@@ -10,7 +10,6 @@ button {
   font-size: 16px;
   margin: 4px 2px;
   cursor: pointer;
-  
 }
 .button1 {
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
